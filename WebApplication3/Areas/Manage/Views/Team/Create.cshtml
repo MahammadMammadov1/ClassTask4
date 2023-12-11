@@ -1,0 +1,55 @@
+﻿@using Mamba.Core.Models;
+
+@model Team
+
+<div class="container-fluid">
+    <h1>CREATE Team</h1>
+</div>
+
+<div class="container-fluid">
+
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="@Model.Fullname">Fullname</label>
+            <input asp-for="@Model.Fullname" type="text" class="form-control">
+            <span asp-validation-for="@Model.Fullname"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Image">Image</label>
+            <input asp-for="@Model.Image"  class="form-control">
+            <span asp-validation-for="@Model.Image"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.FB">FB</label>
+            <input asp-for="@Model.FB"  class="form-control">
+            <span asp-validation-for="@Model.FB"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Twit">Twit</label>
+            <input asp-for="@Model.Twit"  class="form-control">
+            <span asp-validation-for="@Model.Twit"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Insta">Insta</label>
+            <input asp-for="@Model.Insta"  class="form-control">
+            <span asp-validation-for="@Model.Insta"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.ProfessionId">Profession</label>
+            <select asp-for="@Model.ProfessionId" class="form-control"> </select>
+            <span asp-validation-for="@Model.ProfessionId"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Linkedin">Linkedin</label>
+            <input asp-for="@Model.Linkedin"  class="form-control">
+            <span asp-validation-for="@Model.Linkedin"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.FormFile">Formfile</label>
+            <input asp-for="@Model.FormFile"  class="form-control">
+            <span asp-validation-for="@Model.FormFile"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">CREATE</button>
+    </form>
+
+</div>

@@ -1,0 +1,53 @@
+﻿@using Mamba.Core.Models;
+
+@model List<Team>
+@{
+    int counter = 0;
+}
+
+<div>
+    <h1>Create Profession</h1>
+    <a asp-controller="team" asp-action="create" class="btn btn-primary ">Create</a>
+</div>
+
+<table class="table" style="overflow:scroll;max-width:1000px;">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">FullName</th>
+            <th scope="col">image</th>
+            <th scope="col">FB</th>
+            <th scope="col">INSTA</th>
+            <th scope="col">TWIT</th>
+            <th scope="col">LINKED</th>
+            <th scope="col">Action</th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            counter++;
+            <tr>
+                <th scope="row">@counter</th>
+                <td>@item.Fullname</td>
+                <td>@item.Image</td>
+                <td>@item.FB</td>
+                <td>@item.Insta</td>
+                <td>@item.Twit</td>
+                <td>@item.Linkedin</td>
+
+                <td>
+                    <a asp-controller="team" asp-action="update" asp-route-id="@item.Id" class="btn btn-primary">Update</a>
+                    <a asp-controller="team" asp-action="delete" asp-route-id="@item.Id" class="btn btn-danger delete-btn">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+</table>
+
+
+
