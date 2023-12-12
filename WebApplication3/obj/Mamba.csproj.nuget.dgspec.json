@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\WebApplication3\\Mamba.csproj": {}
+    "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\WebApplication3\\Mamba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Business\\Mamba.Business.csproj": {
+    "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Business\\Mamba.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Business\\Mamba.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Business\\Mamba.Business.csproj",
         "projectName": "Mamba.Business",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Business\\Mamba.Business.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Business\\obj\\",
+        "projectPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Business\\Mamba.Business.csproj",
+        "packagesPath": "C:\\Users\\Mehemmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mehemmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Data\\Mamba.Data.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Data\\Mamba.Data.csproj"
+              "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Data\\Mamba.Data.csproj": {
+                "projectPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Data\\Mamba.Data.csproj"
               }
             }
           }
@@ -79,17 +79,17 @@
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Core\\Mamba.Core.csproj": {
+    "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Core\\Mamba.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Core\\Mamba.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Core\\Mamba.Core.csproj",
         "projectName": "Mamba.Core",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Core\\Mamba.Core.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Core\\obj\\",
+        "projectPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Core\\Mamba.Core.csproj",
+        "packagesPath": "C:\\Users\\Mehemmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mehemmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,17 +158,17 @@
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Data\\Mamba.Data.csproj": {
+    "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Data\\Mamba.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Data\\Mamba.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Data\\Mamba.Data.csproj",
         "projectName": "Mamba.Data",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Data\\Mamba.Data.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Data\\obj\\",
+        "projectPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Data\\Mamba.Data.csproj",
+        "packagesPath": "C:\\Users\\Mehemmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mehemmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -182,8 +182,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Core\\Mamba.Core.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Core\\Mamba.Core.csproj"
+              "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Core\\Mamba.Core.csproj": {
+                "projectPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Core\\Mamba.Core.csproj"
               }
             }
           }
@@ -233,17 +233,17 @@
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\WebApplication3\\Mamba.csproj": {
+    "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\WebApplication3\\Mamba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\WebApplication3\\Mamba.csproj",
+        "projectUniqueName": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\WebApplication3\\Mamba.csproj",
         "projectName": "Mamba",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\WebApplication3\\Mamba.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\WebApplication3\\obj\\",
+        "projectPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\WebApplication3\\Mamba.csproj",
+        "packagesPath": "C:\\Users\\Mehemmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\WebApplication3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mehemmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -257,8 +257,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Business\\Mamba.Business.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\TasksCode\\WebApplication3\\Mamba.Business\\Mamba.Business.csproj"
+              "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Business\\Mamba.Business.csproj": {
+                "projectPath": "C:\\Users\\Mehemmed\\Desktop\\ClassTask4\\Mamba.Business\\Mamba.Business.csproj"
               }
             }
           }

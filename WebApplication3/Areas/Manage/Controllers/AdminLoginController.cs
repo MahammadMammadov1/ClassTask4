@@ -33,7 +33,7 @@ namespace Mamba.Areas.Manage.Controllers
         {
             if (!ModelState.IsValid) return View();
             AppUser admin = null;
-            admin = await _userManager.FindByNameAsync(adminLoginVM.Email);
+            admin = await _userManager.FindByEmailAsync(adminLoginVM.Email);
 
             if (admin == null)
             {
@@ -58,6 +58,7 @@ namespace Mamba.Areas.Manage.Controllers
             {
                 UserName = "SuperAdmin",
                 FullName = "Mehemmed",
+                Email= "mehemmedmemmedov240@gmail.com"
             };
             var result =await _userManager.CreateAsync(user,"Admin123@");
             return Ok("yarandi");   
@@ -76,9 +77,16 @@ namespace Mamba.Areas.Manage.Controllers
             return Ok("yarandi");
             
         }
+        public async Task<IActionResult> AddRoleAdmin()
+        {
+            AppUser admin = await _userManager.FindByEmailAsync("mehemmedmemmedov240@gmail.com");
+
+            await _userManager.AddToRoleAsync(admin, "SuperAdmin");
+            return Ok("add olundu");
+        }
 
 
 
-       
+
     }
 }

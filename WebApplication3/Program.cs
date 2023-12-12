@@ -13,7 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDbContext>(opt => {
-    opt.UseSqlServer("Server=DESKTOP-0HH3DC0\\SQLEXPRESS;Database=Mamba;Trusted_Connection=True");
+    opt.UseSqlServer("Server=MSI;Database=Mamba;Trusted_Connection=True");
 
 });
 

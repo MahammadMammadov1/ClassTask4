@@ -2,11 +2,13 @@
 using Mamba.Business.Services.Interfaces;
 using Mamba.Core.Models;
 using Mamba.Core.Repositories.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Mamba.Areas.Manage.Controllers
 {
     [Area("Manage")]
+    [Authorize(Roles = "SuperAdmin,Admin")]
     public class TeamController : Controller
     {
         private readonly ITeamService _teamService;
@@ -19,17 +21,19 @@ namespace Mamba.Areas.Manage.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            List<Team> prof = _teamRepository.Table.ToList();
+            List<Team> prof = await _teamService.GetAllAsync();
             return View(prof);
         }
 
-        public IActionResult Create()
+        public async  Task<IActionResult> Create()
         {
+            ViewBag.Professions = await _teamService.GetAllAsync();
             return View();
         }
         [HttpPost]
         public async Task<IActionResult> Create(Team team)
         {
+            ViewBag.Professions = await _teamService.GetAllAsync();
             if (!ModelState.IsValid) return View();
 
             try
@@ -48,7 +52,7 @@ namespace Mamba.Areas.Manage.Controllers
 
         public async Task<IActionResult> Update(int id)
         {
-            var wanted = await _teamService.GetByIdAsync(id);
+            var wanted = await _teamRepository.GetByIdAsync(x=>x.Id == id,"Professions");
             if (wanted == null) return NotFound();
             return View(wanted);
         }

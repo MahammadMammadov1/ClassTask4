@@ -15,3 +15,20 @@ C:\Users\II Novbe\Desktop\TasksCode\WebApplication3\Mamba.Data\obj\Debug\net6.0\
 C:\Users\II Novbe\Desktop\TasksCode\WebApplication3\Mamba.Data\obj\Debug\net6.0\Mamba.Data.pdb
 C:\Users\II Novbe\Desktop\TasksCode\WebApplication3\Mamba.Data\obj\Debug\net6.0\Mamba.Data.genruntimeconfig.cache
 C:\Users\II Novbe\Desktop\TasksCode\WebApplication3\Mamba.Data\obj\Debug\net6.0\ref\Mamba.Data.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\bin\Debug\net6.0\Mamba.Data.deps.json
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\bin\Debug\net6.0\Mamba.Data.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\bin\Debug\net6.0\Mamba.Data.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\bin\Debug\net6.0\Mamba.Data.pdb
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\bin\Debug\net6.0\Mamba.Core.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\bin\Debug\net6.0\Mamba.Core.pdb
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\Mamba.Data.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\Mamba.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\Mamba.Data.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\Mamba.Data.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\Mamba.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\Mamba.Data.csproj.CopyComplete
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\Mamba.Data.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\refint\Mamba.Data.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\Mamba.Data.pdb
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\Mamba.Data.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Data\obj\Debug\net6.0\ref\Mamba.Data.dll

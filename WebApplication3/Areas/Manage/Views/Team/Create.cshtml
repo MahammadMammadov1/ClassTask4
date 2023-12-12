@@ -36,7 +36,12 @@
         </div>
         <div class="form-group">
             <label asp-for="@Model.ProfessionId">Profession</label>
-            <select asp-for="@Model.ProfessionId" class="form-control"> </select>
+            <select asp-for="@Model.ProfessionId" class="form-control">
+                @foreach (var item in ViewBag.Professions)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
             <span asp-validation-for="@Model.ProfessionId"></span>
         </div>
         <div class="form-group">

@@ -17,3 +17,22 @@ C:\Users\II Novbe\Desktop\TasksCode\WebApplication3\Mamba.Business\obj\Debug\net
 C:\Users\II Novbe\Desktop\TasksCode\WebApplication3\Mamba.Business\obj\Debug\net6.0\Mamba.Business.pdb
 C:\Users\II Novbe\Desktop\TasksCode\WebApplication3\Mamba.Business\obj\Debug\net6.0\Mamba.Business.genruntimeconfig.cache
 C:\Users\II Novbe\Desktop\TasksCode\WebApplication3\Mamba.Business\obj\Debug\net6.0\ref\Mamba.Business.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\bin\Debug\net6.0\Mamba.Business.deps.json
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\bin\Debug\net6.0\Mamba.Business.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\bin\Debug\net6.0\Mamba.Business.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\bin\Debug\net6.0\Mamba.Business.pdb
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\bin\Debug\net6.0\Mamba.Core.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\bin\Debug\net6.0\Mamba.Data.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\bin\Debug\net6.0\Mamba.Data.pdb
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\bin\Debug\net6.0\Mamba.Core.pdb
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\Mamba.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\Mamba.Business.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\Mamba.Business.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.CopyComplete
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\Mamba.Business.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\refint\Mamba.Business.dll
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\Mamba.Business.pdb
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\Mamba.Business.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\ClassTask4\Mamba.Business\obj\Debug\net6.0\ref\Mamba.Business.dll

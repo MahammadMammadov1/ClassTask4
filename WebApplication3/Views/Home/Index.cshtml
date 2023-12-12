@@ -17,12 +17,8 @@
                     <div class="member">
                         <div class="pic"><img src="~/Uploads/Team/@item.FormFile" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>@item.Fullname</h4>
-                            @foreach (var item1 in Model.Professions)
-                            {
-                                <span>@item1.Name</span>
-                            }
-
+                            <h4>@item.Fullname</h4>       
+                             <span>@item.Profession.Name</span>
                             <div class="social">
                                 <a href="@item.Twit"><i class="bi bi-twitter"></i></a>
                                 <a href="@item.FB"><i class="bi bi-facebook"></i></a>

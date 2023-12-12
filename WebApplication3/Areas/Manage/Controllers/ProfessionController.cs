@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Mamba.Areas.Manage.Controllers
 {
     [Area("Manage")]
-    //[Authorize(Roles ="SuperAdmin,Admin")]
+    [Authorize(Roles ="SuperAdmin,Admin")]
     public class ProfessionController : Controller
     {
         private readonly IProfessionService _professionService;
